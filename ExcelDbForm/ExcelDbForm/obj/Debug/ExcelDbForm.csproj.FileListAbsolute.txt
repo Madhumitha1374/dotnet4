@@ -1,0 +1,10 @@
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\bin\Debug\ExcelDbForm.exe.config
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\bin\Debug\ExcelDbForm.exe
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\bin\Debug\ExcelDbForm.pdb
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\obj\Debug\ExcelDbForm.csproj.AssemblyReference.cache
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\obj\Debug\ExcelDbForm.Form1.resources
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\obj\Debug\ExcelDbForm.Properties.Resources.resources
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\obj\Debug\ExcelDbForm.csproj.GenerateResource.cache
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\obj\Debug\ExcelDbForm.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\obj\Debug\ExcelDbForm.exe
+D:\DotNetWorking\ExcelDbForm\ExcelDbForm\obj\Debug\ExcelDbForm.pdb

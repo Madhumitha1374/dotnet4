@@ -1,0 +1,10 @@
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\bin\Debug\FindDocsToExcel.exe.config
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\bin\Debug\FindDocsToExcel.exe
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\bin\Debug\FindDocsToExcel.pdb
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\obj\Debug\FindDocsToExcel.csproj.AssemblyReference.cache
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\obj\Debug\FindDocsToExcel.Form1.resources
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\obj\Debug\FindDocsToExcel.Properties.Resources.resources
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\obj\Debug\FindDocsToExcel.csproj.GenerateResource.cache
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\obj\Debug\FindDocsToExcel.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\obj\Debug\FindDocsToExcel.exe
+D:\DotNetWorking\FindDocsToExcel\FindDocsToExcel\obj\Debug\FindDocsToExcel.pdb
